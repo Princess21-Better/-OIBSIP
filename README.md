@@ -6,6 +6,10 @@ Housing Price Prediction
 Worked on a regression problem to predict house prices based on various features. 
 Performed feature selection, handled missing data, and built predictive models using Scikit-learn.
 
+Wine Quality Analysis
+Explored a wine dataset to identify factors that influence wine quality.
+Cleaned and visualized data using Pandas, Matplotlib, and Seaborn, and built a classification model to predict wine ratings.
+
 Data Cleaning Techniques
 Focused on cleaning messy datasets, dealing with null values, duplicates, outliers, 
 and incorrect data types to prepare data for further analysis or machine learning tasks.
