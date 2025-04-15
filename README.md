@@ -1,3 +1,6 @@
+
+📊 Oasis Internship Projects: Wine Analysis, Housing Prediction & Data Cleaning
+
 This repository contains the practical projects I worked on during my internship at Oasis Afrobyte, 
 where I applied core data analysis skills to solve real-world problems.
 
